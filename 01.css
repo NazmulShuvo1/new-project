@@ -1,0 +1,32 @@
+
+form{
+   background-color: blanchedalmond;
+   width:fit-content;
+   height:fit-content;
+   margin:auto;
+   border-radius: 0%;
+   border:1px solid gray;
+   box-shadow:5px 5px 8px rgb(0,0,0,0.5);
+}
+.hq{
+    color:aqua;
+    background-color: black;
+    border:5px solid;
+}
+.hq:hover{
+    color:red;
+    background-color:aqua;
+    border:3px dotted
+}
+.hq:active{
+color:aquamarine
+}
+.hq:visited{
+    background-color:blue;
+}
+textarea{
+    background-color: aqua;
+    
+}
+textarea:hover{
+    color:red;
